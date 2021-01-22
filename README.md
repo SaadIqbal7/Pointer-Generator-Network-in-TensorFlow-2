@@ -10,4 +10,4 @@ The dataset file, Dataset.xlsx, contains english sentences and their equivalent 
 
 The python vocabulary file, Python Vocabulary.xlsx, contains the python vocabulary (operators and keywords).
 
-The network can be trained with pre trained glove word embeddings, or the word embeddings can be trained from start. You can use download the pre trained word embeddings from [this link](https://nlp.stanford.edu/projects/glove/). The notebook contains a helper function for loading glove word embeddings of any dimension.
+The network can be trained with pre trained glove word embeddings, or the word embeddings can be trained from start. You can download the pre trained word embeddings from [this link](https://nlp.stanford.edu/projects/glove/). The notebook contains a helper function for loading glove word embeddings of any dimension.
